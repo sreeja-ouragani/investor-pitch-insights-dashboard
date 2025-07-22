@@ -45,9 +45,9 @@ In this section, I’ve provided a few visuals from the Power BI dashboard to hi
 
 ## 👩‍💻 Created By
 
-**Ouragani Sreeja**  
+**Ouragani Sreeja & Rallabandi Varshith**  
 CSE - AIML  
-📧 sreejayadav19@gmail.com  
+📧 sreejayadav19@gmail.com | varshivarshith77@gmail.com 
 
 ---
 
